@@ -1,0 +1,5 @@
+# ignoriere bitte beim Updload
+*.exe
+*.ini
+*.chw
+*.chm
