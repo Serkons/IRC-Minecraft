@@ -1,3 +1,0 @@
-sends a small non-elemental spell at %enemy
-runs up and hits %enemy over the head with the staff before dashing back
-swings at %enemy with $gender(%attacker) staff

@@ -1,2 +1,0 @@
-spins around %enemy while kicking
-spins around %enemy and forcefully lands on %enemy $+ 's head for a moment before gliding off gracefully

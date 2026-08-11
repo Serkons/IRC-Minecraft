@@ -1,2 +1,0 @@
-attempts to bite %enemy with its sharp teeth
-lunges towards %enemy in an attempt to hit
