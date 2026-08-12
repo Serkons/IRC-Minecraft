@@ -65,4 +65,9 @@ SurfaceY=64
 MinSurfaceY=80
 MaxSurfaceY=180
 SurfaceType=Mountain
+Desc=Steile Berghänge und zerklüftete Felsformationen erheben sich über die Landschaft. Zwischen schmalen Pfaden, Geröll und vereinzelten Grasflächen führt jeder Schritt höher in eine raue und offene Umgebung.
+DescDay=Im klaren Tageslicht reicht der Blick weit über Täler und entfernte Landschaften. Kühler Wind zieht über die Berghänge, während Sonnenlicht die freiliegenden Felsen und schmalen Grasflächen erhellt.
+DescNight=Nach Einbruch der Nacht liegt das Gebirge dunkel und still unter dem Himmel. Kalter Wind pfeift zwischen den Felsen hindurch und in den tiefen Schatten der Berghänge ist kaum zu erkennen, was sich dort bewegt.
+SurfaceBlocks=Stone,GrassBlock,Gravel
+Vegetation=Grass,TallGrass
 
