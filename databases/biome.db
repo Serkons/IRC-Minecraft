@@ -191,3 +191,22 @@ PassiveMobs=Goat.Rabbit
 HostileMobs=Zombie.Skeleton.Creeper.Spider
 AdjacentBiomes=Grove.FrozenPeaks.JaggedPeaks.Meadow
 
+[JaggedPeaks]
+Name=Zerklüftete Gipfel
+Type=Surface
+Rarity=Rare
+SurfaceY=64
+MinSurfaceY=150
+MaxSurfaceY=260
+SurfaceType=Mountain
+Desc=Gewaltige, zerklüftete Berggipfel ragen weit über die umliegende Landschaft hinaus. Steile Felswände, schmale Grate und verschneite Hänge machen jeden Weg durch diese Höhen gefährlich, während eisiger Wind ungehindert zwischen den Gipfeln hindurchzieht.
+DescDay=Im Tageslicht eröffnet sich zwischen den schroffen Gipfeln ein gewaltiger Blick über die weit entfernte Landschaft. Schnee liegt auf den höheren Felsflächen und starke Windböen fegen über die schmalen Grate, an deren Seiten die Berghänge steil in die Tiefe fallen.
+DescNight=In der Nacht verschwinden die tiefen Abgründe zwischen den Bergen beinahe vollständig in der Dunkelheit. Kalter Wind heult um die Felsen, während das Mondlicht nur die höchsten verschneiten Gipfel und schmalen Grate erkennen lässt.
+DangerLevel=22
+SurfaceCover=Snow
+SurfaceBlocks=Stone.Stone.Stone.SnowBlock.Gravel
+Vegetation=Grass
+PassiveMobs=Goat
+HostileMobs=Zombie.Skeleton.Creeper.Spider
+AdjacentBiomes=SnowySlopes.FrozenPeaks.StonyPeaks.Grove
+TerrainHazards=PowderSnow.SteepDrop
