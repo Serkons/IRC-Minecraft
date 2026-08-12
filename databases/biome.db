@@ -53,3 +53,4 @@ SurfaceY=64
 SurfaceType=Desert
 SurfaceBlocks=Sand,Sandstone
 Vegetation=Cactus,DeadBush
+PassiveMobs=Rabbit
