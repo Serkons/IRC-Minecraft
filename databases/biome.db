@@ -7,6 +7,7 @@ Type=Special
 Rarity=Rare
 DangerLevel=25
 SurfaceY=64
+SurfaceBlocks=Podzol,MossBlock,CoarseDirt
 SurfaceType=Forest
 Desc=Ein dichter Nebel liegt zwischen den dunklen Bäumen. Schwaches Licht schimmert durch das Blätterdach und lässt den Wald beinahe verzaubert erscheinen. Doch je weiter du zwischen die Bäume blickst, desto stärker beschleicht dich das Gefühl, dass du nicht allein bist.
 DescDay=Tagsüber wirkt der Wald beinahe friedlich. Sonnenstrahlen brechen vereinzelt durch das dichte Blätterdach und lassen den Nebel geheimnisvoll schimmern. Zwischen den Bäumen herrscht eine eigentümliche Ruhe, doch irgendetwas sagt dir, dass du dich nicht zu sicher fühlen solltest.
