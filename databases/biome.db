@@ -56,6 +56,7 @@ Vegetation=Cactus.DeadBush
 PassiveMobs=Rabbit
 HostileMobs=Husk.Skeleton.Creeper.Spider
 AdjacentBiomes=Savanna.Badlands.Plains
+TerrainHazards=Quicksand
 
 [Mountains]
 Name=Gebirge
@@ -168,3 +169,25 @@ TreeType=Spruce
 PassiveMobs=Rabbit.Wolf.Fox
 HostileMobs=Zombie.Skeleton.Creeper.Spider
 AdjacentBiomes=Meadow.SnowySlopes.FrozenPeaks.Mountains
+
+[SnowySlopes]
+Name=Verschneite Berghänge
+Type=Surface
+Rarity=Uncommon
+SurfaceY=64
+MinSurfaceY=110
+MaxSurfaceY=200
+SurfaceType=Mountain
+Desc=Weite, verschneite Berghänge ziehen sich zwischen den höheren Gipfeln entlang. Nur wenige Pflanzen durchbrechen die weiße Landschaft, während kalter Wind ungehindert über den tiefen Schnee und die steilen Hänge fegt.
+DescDay=Am Tag reflektiert der helle Schnee das Sonnenlicht und lässt die offenen Berghänge beinahe blendend erscheinen. Eisiger Wind zieht über die Höhen und in der Ferne ragen schroffe Berggipfel über die weiße Landschaft hinaus.
+DescNight=In der Nacht wirken die verschneiten Hänge verlassen und erbarmungslos kalt. Blasses Mondlicht liegt auf dem Schnee, während der Wind feine Schneekristalle über die dunklen Abhänge treibt und jedes entfernte Geräusch durch die offene Landschaft trägt.
+TerrainHazards=PowderSnow
+DangerLevel=18
+SurfaceCover=Snow
+SurfaceBlocks=SnowBlock.Stone.Gravel
+TerrainHazards=PowderSnow
+Vegetation=Grass
+PassiveMobs=Goat.Rabbit
+HostileMobs=Zombie.Skeleton.Creeper.Spider
+AdjacentBiomes=Grove.FrozenPeaks.JaggedPeaks.Meadow
+
