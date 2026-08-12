@@ -129,3 +129,22 @@ DangerLevel=16
 PassiveMobs=Goat.Wolf
 HostileMobs=Zombie.Skeleton.Creeper.Spider
 AdjacentBiomes=WindsweptHills.Mountains.Forest.Taiga
+
+[Meadow]
+Name=Bergwiese
+Type=Surface
+Rarity=Uncommon
+SurfaceY=64
+MinSurfaceY=80
+MaxSurfaceY=150
+SurfaceType=Mountain
+Desc=Eine weitläufige Bergwiese erstreckt sich über die sanften Höhen. Zwischen dichtem Gras wachsen zahlreiche farbenfrohe Blumen, während der Wind ruhig über die offene Landschaft zieht und den Blick auf die umliegenden Berge freigibt.
+DescDay=Im hellen Tageslicht leuchten unzählige Blumen zwischen dem satten Grün der Bergwiese. Bienen summen zwischen den Blüten und eine leichte Brise zieht über die offenen Hänge. Für einen Moment wirkt die raue Bergwelt ungewöhnlich friedlich.
+DescNight=Mit Einbruch der Nacht verstummen die friedlichen Geräusche der Bergwiese langsam. Blasses Mondlicht liegt über Gras und Blumen, während die umliegenden Berge nur noch als dunkle Silhouetten am Horizont zu erkennen sind.
+DangerLevel=8
+SurfaceBlocks=GrassBlock.GrassBlock.Dirt
+Vegetation=Grass.TallGrass.Wildflowers.Flowers.Flowers
+TreeType=Oak.Birch
+PassiveMobs=Sheep.Donkey.Rabbit.Bee
+HostileMobs=Zombie.Skeleton.Creeper.Spider
+AdjacentBiomes=Plains.Grove.WindsweptHills.CherryGrove
