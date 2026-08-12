@@ -51,3 +51,4 @@ DescNight=Mit dem Verschwinden der Sonne weicht die brennende Hitze einer überr
 DangerLevel=10
 SurfaceY=64
 SurfaceType=Desert
+SurfaceBlocks=Sand,Sandstone
