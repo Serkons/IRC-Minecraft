@@ -61,3 +61,8 @@ AdjacentBiomes=Savanna,Badlands,Plains
 Name=Gebirge
 Type=Surface
 Rarity=Uncommon
+SurfaceY=64
+MinSurfaceY=80
+MaxSurfaceY=180
+SurfaceType=Mountain
+
