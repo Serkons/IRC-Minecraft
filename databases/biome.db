@@ -6,3 +6,5 @@ Name=Verzauberter Nebelwald
 Type=Special
 Rarity=Rare
 Desc=Ein dichter Nebel liegt zwischen den dunklen Bäumen. Schwaches Licht schimmert durch das Blätterdach und lässt den Wald beinahe verzaubert erscheinen. Doch je weiter du zwischen die Bäume blickst, desto stärker beschleicht dich das Gefühl, dass du nicht allein bist.
+DescDay=Tagsüber wirkt der Wald beinahe friedlich. Sonnenstrahlen brechen vereinzelt durch das dichte Blätterdach und lassen den Nebel geheimnisvoll schimmern. Zwischen den Bäumen herrscht eine eigentümliche Ruhe, doch irgendetwas sagt dir, dass du dich nicht zu sicher fühlen solltest.
+DescNight=Mit Einbruch der Nacht verändert sich der Wald. Das dichte Blätterdach verschluckt fast jedes Mondlicht und der Nebel wird zu einem undurchsichtigen Schleier. Zwischen den dunklen Stämmen bewegen sich Schatten, während irgendwo in der Ferne ein leises Knacken zu hören ist.
