@@ -3,3 +3,9 @@
 *.dll
 *.chm
 *.chw
+
+# nix davon
+servers.ini
+perform.ini
+mirc.ini
+
