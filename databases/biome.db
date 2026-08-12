@@ -56,3 +56,8 @@ Vegetation=Cactus,DeadBush
 PassiveMobs=Rabbit
 HostileMobs=Husk,Skeleton,Creeper,Spider
 AdjacentBiomes=Savanna,Badlands,Plains
+
+[Mountains]
+Name=Gebirge
+Type=Surface
+Rarity=Uncommon
