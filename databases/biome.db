@@ -231,3 +231,22 @@ PassiveMobs=Goat
 HostileMobs=Zombie.Skeleton.Creeper.Spider
 AdjacentBiomes=SnowySlopes.JaggedPeaks.StonyPeaks.Grove
 TerrainHazards=PowderSnow.SlipperyIce.SteepDrop
+
+[StonyPeaks]
+Name=Steinige Gipfel
+Type=Surface
+Rarity=Rare
+SurfaceY=64
+MinSurfaceY=140
+MaxSurfaceY=250
+SurfaceType=Mountain
+Desc=Kahle, steinige Gipfel erheben sich über die umliegende Landschaft. Große Flächen aus freiliegendem Fels ziehen sich über die steilen Berghänge, während nur vereinzelte Pflanzen zwischen den Steinen Halt finden.
+DescDay=Im hellen Tageslicht liegen die nackten Felsflächen offen vor dir. Die Sonne erwärmt das Gestein und von den hohen Gipfeln reicht der Blick weit über Täler und niedrigere Bergregionen hinweg.
+DescNight=Nach Sonnenuntergang verlieren die steinigen Gipfel schnell ihre Wärme. Dunkle Felswände und tiefe Abgründe verschwimmen im schwachen Mondlicht, während der Wind ungehindert über die offenen Höhen zieht.
+DangerLevel=20
+SurfaceBlocks=Stone.Stone.Stone.Calcite.Gravel
+Vegetation=Grass
+PassiveMobs=Goat
+HostileMobs=Zombie.Skeleton.Creeper.Spider
+TerrainHazards=SteepDrop
+AdjacentBiomes=JaggedPeaks.FrozenPeaks.WindsweptHills.Mountains
