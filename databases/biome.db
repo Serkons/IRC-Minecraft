@@ -148,3 +148,23 @@ TreeType=Oak.Birch
 PassiveMobs=Sheep.Donkey.Rabbit.Bee
 HostileMobs=Zombie.Skeleton.Creeper.Spider
 AdjacentBiomes=Plains.Grove.WindsweptHills.CherryGrove
+
+[Grove]
+Name=Verschneiter Berghain
+Type=Surface
+Rarity=Uncommon
+SurfaceY=64
+MinSurfaceY=90
+MaxSurfaceY=170
+SurfaceType=Mountain
+Desc=Ein verschneiter Bergwald bedeckt die kalten Hänge. Hohe Fichten ragen zwischen tiefem Schnee empor, während eisiger Wind durch ihre Äste zieht und die umliegenden Berge in eine stille, weiße Landschaft verwandelt.
+DescDay=Am Tag glitzert der Schnee zwischen den dunklen Fichten im hellen Licht. Kalte Luft zieht über die Berghänge und zwischen den Bäumen sind immer wieder Spuren im Schnee zu erkennen, deren Ursprung sich nicht sofort erkennen lässt.
+DescNight=Nach Einbruch der Nacht wird der verschneite Bergwald unheimlich still. Blasses Mondlicht spiegelt sich auf dem Schnee, während dunkle Fichten lange Schatten über die Hänge werfen und aus der Ferne gelegentlich unbekannte Geräusche durch die kalte Luft dringen.
+DangerLevel=12
+SurfaceCover=Snow
+SurfaceBlocks=GrassBlock.Dirt.Stone
+Vegetation=SpruceLeaves.Fern
+TreeType=Spruce
+PassiveMobs=Rabbit.Wolf.Fox
+HostileMobs=Zombie.Skeleton.Creeper.Spider
+AdjacentBiomes=Meadow.SnowySlopes.FrozenPeaks.Mountains
