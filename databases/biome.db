@@ -70,4 +70,8 @@ DescDay=Im klaren Tageslicht reicht der Blick weit über Täler und entfernte La
 DescNight=Nach Einbruch der Nacht liegt das Gebirge dunkel und still unter dem Himmel. Kalter Wind pfeift zwischen den Felsen hindurch und in den tiefen Schatten der Berghänge ist kaum zu erkennen, was sich dort bewegt.
 SurfaceBlocks=Stone,GrassBlock,Gravel
 Vegetation=Grass,TallGrass
+DangerLevel=15
+PassiveMobs=Goat
+HostileMobs=Zombie,Skeleton,Creeper,Spider
+AdjacentBiomes=Plains,Forest,Taiga
 
