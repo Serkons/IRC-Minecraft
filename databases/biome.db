@@ -210,3 +210,24 @@ PassiveMobs=Goat
 HostileMobs=Zombie.Skeleton.Creeper.Spider
 AdjacentBiomes=SnowySlopes.FrozenPeaks.StonyPeaks.Grove
 TerrainHazards=PowderSnow.SteepDrop
+
+[FrozenPeaks]
+Name=Gefrorene Gipfel
+Type=Surface
+Rarity=Rare
+SurfaceY=64
+MinSurfaceY=160
+MaxSurfaceY=280
+SurfaceType=Mountain
+Desc=Massive, vereiste Gipfel ragen über die umliegenden Berge hinaus. Schnee und Eis bedecken große Teile der Felsflächen, während eisiger Wind ungehindert über die schmalen Grate und steilen Hänge fegt.
+DescDay=Im Tageslicht glitzern Schnee und Eis auf den hohen Gipfeln beinahe blendend. Kalter Wind treibt feine Schneekristalle über die Felsen, während tief unter dir Täler und niedrigere Bergregionen verschwinden.
+DescNight=In der Nacht wirken die gefrorenen Gipfel vollkommen lebensfeindlich. Blasses Mondlicht spiegelt sich auf Eis und Schnee, während der Wind zwischen den Felsen heult und jede Bewegung auf den glatten Hängen gefährlich werden kann.
+DangerLevel=24
+SurfaceCover=Snow
+SurfaceBlocks=PackedIce.Ice.Stone.SnowBlock
+TerrainHazards=PowderSnow.SlipperyIce.SteepDrop
+Vegetation=Grass
+PassiveMobs=Goat
+HostileMobs=Zombie.Skeleton.Creeper.Spider
+AdjacentBiomes=SnowySlopes.JaggedPeaks.StonyPeaks.Grove
+TerrainHazards=PowderSnow.SlipperyIce.SteepDrop
