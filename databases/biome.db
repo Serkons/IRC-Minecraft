@@ -54,3 +54,4 @@ SurfaceType=Desert
 SurfaceBlocks=Sand,Sandstone
 Vegetation=Cactus,DeadBush
 PassiveMobs=Rabbit
+HostileMobs=Husk,Skeleton,Creeper,Spider
