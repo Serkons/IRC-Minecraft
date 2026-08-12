@@ -24,3 +24,8 @@ MysticRain=Ein sanfter Regen aus violett schimmernden Partikeln gleitet zwischen
 MysticRainRare=Für einen Augenblick verändert sich der Nebel um dich herum. Unzählige violette Lichtpunkte beginnen zwischen den Bäumen zu schweben und tanzen langsam durch die feuchte Luft. Der Wald wirkt plötzlich wunderschön – und gleichzeitig vollkommen fremdartig.
 PassiveMobs=Wolf,Firefly
 HostileMobs=RootLurker
+
+[Plains]
+Name=Ebene
+Type=Surface
+Rarity=Common
