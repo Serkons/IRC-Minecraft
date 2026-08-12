@@ -50,3 +50,4 @@ DescDay=Die Sonne brennt erbarmungslos auf die offene Wüste herab und lässt di
 DescNight=Mit dem Verschwinden der Sonne weicht die brennende Hitze einer überraschenden Kälte. Blasses Mondlicht liegt über den Dünen und der Wind treibt leise Sand über die dunkle Landschaft. In der scheinbaren Stille zeichnen sich immer wieder Bewegungen am Horizont ab – die Wüste ist bei Nacht alles andere als verlassen.
 DangerLevel=10
 SurfaceY=64
+SurfaceType=Desert
