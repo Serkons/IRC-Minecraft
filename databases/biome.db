@@ -1,2 +1,7 @@
 ; IRC-Minecraft
 ; Biome-Datenbank
+
+[MysticFogForest]
+Name=Verzauberter Nebelwald
+Type=Special
+Rarity=Rare
