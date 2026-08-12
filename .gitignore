@@ -1,0 +1,5 @@
+# please ignore the following things
+*.exe
+*.dll
+*.chm
+*.chw
