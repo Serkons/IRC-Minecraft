@@ -36,6 +36,7 @@ SurfaceBlocks=GrassBlock,Dirt
 Vegetation=Grass,TallGrass,Flowers
 PassiveMobs=Cow,Sheep,Pig,Chicken,Horse
 HostileMobs=Zombie,Skeleton,Creeper,Spider
+AdjacentBiomes=Forest,Savanna,Swamp
 Desc=Eine weite, offene Ebene erstreckt sich bis zum Horizont. Sanfte Hügel durchbrechen das Meer aus Gras, während vereinzelte Blumen und hohes Gras im Wind schwanken. Nur wenige Bäume spenden Schutz, dafür bietet die offene Landschaft einen weiten Blick auf alles, was sich in der Ferne nähert.
 DescDay=Im hellen Tageslicht liegt die weite Ebene offen vor dir. Sonnenlicht fällt über die sanften Hügel, während Gras und bunte Blumen im Wind schwanken. Tiere ziehen friedlich durch die Landschaft und schon aus großer Entfernung kannst du erkennen, was sich dir nähert.
 DescNight=Mit Einbruch der Nacht liegt die Ebene still unter dem dunklen Himmel. Das Gras bewegt sich leise im kühlen Wind und in der Ferne zeichnen sich einzelne Gestalten gegen den Horizont ab. Die freie Sicht ist nun ein zweischneidiger Vorteil: Du kannst Gefahren früh erkennen, doch auch du bist auf der offenen Fläche weithin sichtbar.
